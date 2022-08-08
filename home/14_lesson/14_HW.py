@@ -1,4 +1,4 @@
-
+"""Test new commit"""
 def logger(func):
 
     def wrapper(*args):
